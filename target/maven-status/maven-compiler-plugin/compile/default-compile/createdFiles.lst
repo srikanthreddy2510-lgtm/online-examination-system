@@ -1,0 +1,17 @@
+com\srikanth\onlineexamination\controller\ResultController$SubmissionRequest.class
+com\srikanth\onlineexamination\repository\QuestionRepository.class
+com\srikanth\onlineexamination\controller\StudentController$StudentRequest.class
+com\srikanth\onlineexamination\OnlineExaminationApplication.class
+com\srikanth\onlineexamination\repository\ExamRepository.class
+com\srikanth\onlineexamination\controller\StudentController.class
+com\srikanth\onlineexamination\controller\ExamController.class
+com\srikanth\onlineexamination\repository\ExamResultRepository.class
+com\srikanth\onlineexamination\controller\ResultController.class
+com\srikanth\onlineexamination\config\DataInitializer.class
+com\srikanth\onlineexamination\model\ExamResult.class
+com\srikanth\onlineexamination\model\Question.class
+com\srikanth\onlineexamination\controller\ExamController$ExamRequest.class
+com\srikanth\onlineexamination\repository\StudentRepository.class
+com\srikanth\onlineexamination\controller\ExamController$QuestionRequest.class
+com\srikanth\onlineexamination\model\Exam.class
+com\srikanth\onlineexamination\model\Student.class
